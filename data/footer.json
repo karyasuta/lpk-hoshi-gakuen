@@ -1,14 +1,14 @@
 {
-  "logo": "/images/footer-logo.svg",
+  "logo": "/images/footer-logo-1.svg",
   "logo_url": "/",
-  "copyright": "MyCompany. All rights reserved.",
+  "copyright": "LPK Hoshi Gakuen Bali. All rights reserved.",
   "social": [
     {
       "link": "https://www.facebook.com/mycompany",
       "social_icon": "ph-facebook-logo"
     },
     {
-      "link": "https://www.instagram.com/mycompany",
+      "link": "https://www.instagram.com/hoshi_gakuen_bali/",
       "social_icon": "ph-instagram-logo"
     },
     {
@@ -26,7 +26,7 @@
   ],
   "sections": [
     {
-      "title": "Main Pages",
+      "title": "Halaman Utama",
       "links": [
         {
           "link": "/",
@@ -34,41 +34,37 @@
         },
         {
           "link": "/features",
-          "text": "Features"
+          "text": "Alur Program"
         },
         {
           "link": "/pricing",
-          "text": "Price"
+          "text": "Program"
         },
         {
           "link": "/about",
-          "text": "About"
+          "text": "Tentang Kami"
         }
       ]
     },
     {
-      "title": "Community",
+      "title": "Info Terkini",
       "links": [
         {
           "link": "/blog",
           "text": "Blog"
-        },
-        {
-          "link": "/feed.xml",
-          "text": "RSS Feed"
         }
       ]
     },
     {
-      "title": "Company",
+      "title": "Perusahaan",
       "links": [
         {
           "link": "/contact",
-          "text": "Contact"
+          "text": "Kontak"
         },
         {
           "link": "/privacy",
-          "text": "Privacy Policy"
+          "text": "Kebijakan Privasi"
         }
       ]
     }

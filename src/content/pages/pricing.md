@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Program
 seo:
   page_description:
   canonical_url:
@@ -10,112 +10,111 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: pricing/hero
-    title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    title: Apa saja program kami?
+    description: LPK Hoshi Gakuen memiliki beberapa program - program menarik bagi para peserta didik.
 
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
+      - tier: Kelas Trial
         highlight_tier: false
-        description: Everything you need to get started.
-        currency_symbol: $
-        price: 0
-        has_discount: false
-        discount_price: 0
+        description: Buat para pemula yang ingin belajar Bahasa Jepang.
+        currency_symbol: Rp
+        price: 750K
+        has_discount: true
+        discount_price: 500K
         features:
-          - item: 1 Email Campaign
+          - item: Total 15X Pertemuan (1jam)
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 1 Bulan Belajar
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Modul Belajar untuk Pemula
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: File Audio Percakapan
             active_feature: true
-          - item: 23+ Templates
+          - item: Cocok untuk Pemula
             active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+          - item: Pengajar yang berpengalaman
+            active_feature: true
+          - item: Support dalam masa pelatihan
+            active_feature: true
+          - item: Konsultasi
+            active_feature: true
+          # - item: Unlimited activity history
+          #   active_feature: false
         button:
           link: /signup
-          text: Try This Free
-      - tier: Pro
+          text: Join Sekarang
+      - tier: Kelas Professional
         highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
-        currency_symbol: $
-        price: 199
+        description: Buat mereka yang ingin tinggal dan bekerja di Jepang.
+        currency_symbol: Rp
+        price: 45jt
         has_discount: true
-        discount_price: 125
+        discount_price: 38jt
         features:
-          - item: 1 Email Campaign
+          - item: Total 60X pertemuan (3jam)
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 3 Bulan Belajar
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Modul Belajar dari Pemula hingga Menengah
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: Latihan & Praktek Percakapan
             active_feature: true
-          - item: 23+ Templates
+          - item: Tips & Trik Hidup di Jepang
             active_feature: true
-          - item: Over 800 Section Blocks
+          - item: Pengajar yang Berpengalaman
             active_feature: true
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+          - item: Support hingga sampai di Jepang
+            active_feature: true
+          - item: Konsultasi
+            active_feature: true
+          # - item: Unlimited activity history
+          #   active_feature: false
         button:
           link: /signup
-          text: Try This Free
-      - tier: Business
+          text: Join Sekarang
+      - tier: Kelas Intensiv
         highlight_tier: false
-        description: For starters Includes unlimited members
-        currency_symbol: $
-        price: 499
+        description: Buat mereka yang ingin menguasai Bahasa Jepang (N3).
+        currency_symbol: Rp
+        price: 20jt
         has_discount: true
-        discount_price: 350
+        discount_price: 15jt
         features:
-          - item: 1 Email Campaign
+          - item: Total 120X Pertemuan (3jam)
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: 6 Bulan Belajar
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Modul Belajar dari Pemula hingga level N3
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: File Audio Percakapan
             active_feature: true
-          - item: 23+ Templates
+          - item: Cocok untuk Pemula
             active_feature: true
-          - item: Over 800 Section Blocks
+          - item: Pengajar yang berpengalaman
             active_feature: true
-          - item: Support
+          - item: Support dalam masa pelatihan
             active_feature: true
-          - item: 3 filters
-            active_feature: true
-          - item: Unlimited activity history
+          - item: Konsultasi
             active_feature: true
         button:
           link: /signup
-          text: Try This Free
+          text: Join Sekarang
 
   - _bookshop_name: global/faq
-    title: Have
-    title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+    title: Apakah kalian punya
+    title_suffix: Pertanyaan?
+    description: Di LPK Hoshi Gakuen, kita percaya bahwa dengan sistem belajar yang efektif, dan efisien dapat membantu peserta pelatihan yang ingin mewujudkan mimpinya untuk menguasai bahasa Jepang dan bekerja di Jepang.
+
     FAQ:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
-      - title: Where can I find out more information?
-        description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
-      - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
-      - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+      - title: Apakah ada jumlah maksimal siswa dalam 1 kelas?
+        description: Iya, dalam 1 kelas dibatasi maksimal 15 orang siswa/i. Ini dilakukan agar proses belajar & mengajar dapat lebih fokus dan terarah.
+      - title: Metode pembayaran apa saja yang tersedia?
+        description: Transfer ke rekening bank kami atau Anda bisa langsung membayar ke kantor kami.
+      - title: Apakah pembayaran bisa dicicil?
+        description: Bisa, Pembayaran bisa dicicil hingga 3X.
+      - title: Apabila kontrak magang saya sudah habis, bisakah saya memperpanjang lagi?
+        description: Bisa, bahkan Anda bisa mencari pekerjaan lain di Jepang.
+      - title: Jika saya punya pertanyaan lain, kemanakah saya bisa bertanya?
+        description: Anda bisa menghubungi kami di nomor whatsapp yang ada di halaman kontak.
 ---

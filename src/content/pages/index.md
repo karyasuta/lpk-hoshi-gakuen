@@ -11,110 +11,102 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: Wujudkan Mimpimu Bekerja di Jepang!
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
-    image: /images/hero/hero-image-2.png
-    image_alt: Reports dashboard
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    image: /images/hero/kimono.jpg
+    image_alt: A Japanese Lady wearing kimono
     button:
-      text: Try This Free
+      text: Daftar Sekarang
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Ayo Join di
+    title_suffix: LPK Hoshi Gakuen
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      LPK Hoshi Gakuen Bali memiliki staff yang  kompeten di bidangnya serta berpengalaman langsung sebagai trainee di Jepang.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
       - prefix:
-        number: 2016
+        number: 10
+        suffix: +
+        text: Jumlah Staff
+      - prefix:
+        number: 2022
         suffix:
-        text: Established in
+        text: Beroperasi sejak tahun
       - prefix:
         number: 40
         suffix: +
-        text: Amazing team members
+        text: Jumlah Peserta Didik
       - prefix:
-        number: 4322
+        number: 20
         suffix: +
-        text: Active users and growing
+        text: Partner Kerjasama
   - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
+    image: /images/video/thumb.jpg
     image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
+    video_url: https://www.youtube.com/watch?v=eEUMwDwUkWM
   - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
+    title: "Keunggulan Pelatihan di "
+    title_suffix: LPK Hoshi Gakuen
     remove_top_padding: true
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
-    image_alt: Message inbox
-    title: Email Campaign in one minute
+    image: /images/feature/teacher.jpg
+    image_alt: Sensei mengajar di kelas
+    title: Tutor yang berkualitas
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
-    button:
-      link: /signup
-      text: Try This Free
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+    # button:
+    #   link: /signup
+    #   text: Try This Free
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
+    image: /images/feature/suasana-belajar.jpg
     image_alt: Visitor chart
-    title: See every Lead in one Place
+    title: Ruangan dan suasana pelatihan yang nyaman
     description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
-    button:
-      link: /signup
-      text: Try This Free
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
+    # button:
+    #   link: /signup
+    #   text: Try This Free
     reversed: true
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
-    image_alt: File upload
-    title: 100% free uploads
+    image: /images/feature/group-study.jpg
+    image_alt: Belajar kelompok
+    title: Metode belajar efektif dan interaktif
     description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
-    button:
-      link: /signup
-      text: Try This Free
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet.
+    # button:
+    #   link: /signup
+    #   text: Try This Free
     reversed: false
   - _bookshop_name: global/testimonial
-    title: Build relationships that
-    title_suffix: last
+    title: Testimoni Peserta Didik Yang Telah
+    title_suffix: Bekerja di Jepang
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Dengarkan kesaksian langsung peserta didik yang mengikuti pelatihan dan sekarang telah mewujudkan mimpinya untuk bekerja di Jepang.
     slider:
       - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: Pete Fish
-        designation: CMO at Clear Appeal
+        image_alt: Profile photo of Peserta 1
+        author: Peserta 1
+        designation: Pegawai Care Giver di Prefektur Gunma
         message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
+        image_alt: Profile photo of Peserta 2
+        author: Peserta 2
+        designation: Chef Restaurant Indonesia di Tokyo
         message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+        image_alt: Profile photo of Peserta 3
+        author: Peserta 3
+        designation: Pekerja Bidang Pertanian di Prefektur Aichi
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+          sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---

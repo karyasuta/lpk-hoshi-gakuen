@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Hubungi Kami
 seo:
   page_description:
   canonical_url:
@@ -10,36 +10,36 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
-    title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    title: Ada Pertanyaan?
+    description: Jika teman - teman memiliki pertanyaan atau ingin berdiskusi dengan kami, jangan sungkan untuk menghubungi kami melalui email, WhatsApp, dan kontak form di samping.
   - _bookshop_name: contact/form
     address:
-      heading: Office Address
-      address: 123 Train St, San Francisco, CA 9107
+      heading: Alamat Kantor
+      address: Jalan Raya Puri Gading Ruko A1 No. 02A Jimbaran, Kuta Selatan, Indonesia
     phone:
-      heading: Phone
-      cell: (123) 456 - 7895
+      heading: Nomor Telepon
+      cell: 0819 - 2886 - 6777
       image: /images/contact/call-add.svg
       image_alt: call-add
     email:
       heading: Email
-      email: info@example.com
+      email: infohoshigakuenbali@gmail.com
       image: /images/contact/directbox-send.svg
       image_alt: send-box
     form:
-      heading: Say Hello
+      heading: Kirimkan Pesan Disini
       fullname:
-        heading: Full Name
-        placeholder: Enter First Name
+        heading: Nama Lengkap
+        placeholder: Tulis Nama Lengkap
       phone_number:
-        heading: Phone number
-        placeholder: Enter Phone Number
+        heading: Nomor Handphone/WhatsApp
+        placeholder: Masukkan Nomor Telp/WhatsApp
       email:
-        heading: Email Address
-        placeholder: Enter Email Address
+        heading: Alamat Email
+        placeholder: Ketik Alamat Email
       message:
-        heading: Your Messages
-        placeholder: Enter your message
+        heading: Pesan atau Pertanyaan
+        placeholder: Tulis isi pesan atau pertanyaan
       submit_button:
-        text: Send message
+        text: Kirim
 ---

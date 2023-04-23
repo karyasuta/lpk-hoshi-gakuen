@@ -1,10 +1,10 @@
 ---
 _schema: paginated_collection
-title: Resources for makers to learn, sell & grow
-description: "We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy."
-page_size: 3
+title: Galeri Kegiatan dan Berita
+description: "Buat teman - teman yang masih penasaran dengan kegiatan, aktifitas dalam kelas, dan berita terbaru dari LPK Hoshi Gakuen Bali, bisa membaca blog dan artikel kita disini."
+page_size: 6
 seo:
-  page_description: "We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy."
+  page_description: "Buat teman - teman yang masih penasaran dengan kegiatan, aktifitas dalam kelas, dan berita terbaru dari LPK Hoshig Gakuen Bali, bisa membaca blog dan artikel kita disini."
   canonical_url:
   featured_image:
   featured_image_alt:

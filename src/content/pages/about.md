@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang Kami
 seo:
   page_description:
   canonical_url:
@@ -10,92 +10,76 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: about/hero
-    title: On a mission to change email marketing
-    description: We're here to breathe new air into email marketing and help grow your business.
+    title: Siap mengantar anda menuju Sukses
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..
     hero_images:
-      - image: /images/about/aboutfeature-two.jpg
+      - image: /images/about/staff1.jpg
         image_alt: People working on laptops
         placement: "front_bottom"
-      - image: /images/about/aboutfeature-three.jpg
+      - image: /images/about/staff2.jpg
         image_alt: Group working on a laptop
         placement: "back_top_right"
-      - image: /images/about/aboutfeature-four.jpg
+      - image: /images/about/staff3.jpg
         image_alt: Staff group photo
         placement: "back_top_left"
     button:
-      text: "Try This Free"
-      link: "/signup"
+      text: "Hubungi Kami"
+      link: "/contact"
 
   - _bookshop_name: global/counter
-    title: Built for your
-    title_suffix: Business
-    description: We've built Sendit from the ground up the help grow your business faster.
+    title: Sekilas tentang
+    title_suffix: LPK Hoshi Gakuen Bali
+    description: Menjadi Lembaga Pelatihan Kerja (LPK) unggulan dan berkualitas dalam mengirim tenaga kerja ke luar negeri.
     alternate_style: true
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - number: 2016
-        text: Established in
-      - number: 40
+      - prefix:
+        number: 10
         suffix: +
-        text: Amazing team members
-      - number: 44325
+        text: Jumlah Staff
+      - prefix:
+        number: 2022
+        suffix:
+        text: Beroperasi sejak tahun
+      - prefix:
+        number: 40
         suffix: +
-        text: Active users and growing
+        text: Jumlah Peserta Didik
+      - prefix:
+        number: 20
+        suffix: +
+        text: Partner Kerjasama
 
   - _bookshop_name: about/video
-    title: We love what we do
-    description: Our team has decades of experience working with email marketing campaigns and we’re passionate about helping you connect with your customers.
+    title: Visi kami
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     button:
-      link: https://www.linkedin.com/
-      text: Follow on Linkedin
+      link: https://www.instagram.com/hoshi_gakuen_bali/
+      text: Follow IG Kami
     video:
       image: /images/works/banner.jpg
       image_alt: Thumbnail image for video
       link: https://vimeo.com/45830194
 
   - _bookshop_name: about/team
-    title: Our leadership team
+    title: Pengurus LPK Hoshi Gakuen
     team_members:
-      - name: Nikolas Mcconnell
-        designation: Co-Founder & CEO
-        image: /images/team/1.jpg
-        image_alt: "Team member: Nikolas Mcconnell"
+      - name: Maria Sensei
+        designation: Direktur
+        image: /images/team/7.jpg
+        image_alt: "Team member: Maria"
 
-      - name: Keiren Mcculloch
-        designation: CMO
+      - name: Pak Made
+        designation: Suami Maria Sensei
         image: /images/team/2.jpg
         image_alt: "Team member: Keiren Mcculloch"
 
-      - name: Piers Reyes
-        designation: Head of Marketing
-        image: /images/team/3.jpg
-        image_alt: "Team member: Piers Reyes"
+      - name: Wiba
+        designation: Keponakan Owner
+        image: /images/team/wiba.jpg
+        image_alt: "Team member: Widya Wibawa"
 
-      - name: Zachary Arias
-        designation: Co-founder & CTO
-        image: /images/team/4.jpg
-        image_alt: "Team member: Zachary Arias"
-
-      - name: Harmony Dunlop
-        designation: Head of Sales
+      - name: Ganing
+        designation: Sensei
         image: /images/team/5.jpg
-        image_alt: "Team member: Harmony Dunlop"
-
-      - name: Elize Schwartz
-        designation: CRO
-        image: /images/team/6.jpg
-        image_alt: "Team member: Elize Schwartz"
-
-      - name: Coen Simmons
-        designation: Head of Design
-        image: /images/team/7.jpg
-        image_alt: "Team member: Coen Simmons"
-
-      - name: Fran Figureson
-        designation: Head of People
-        image: /images/team/8.jpg
-        image_alt: "Team member: Fran Figureson"
+        image_alt: "Team member: Ganing"
 ---

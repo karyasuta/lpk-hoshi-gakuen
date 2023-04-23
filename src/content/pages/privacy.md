@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Kebijakan Privasi
 seo:
   page_description:
   canonical_url:
@@ -10,17 +10,25 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: privacy/hero
-    title: Terms & Conditions
+    title: Kebijakan Privasi
   - _bookshop_name: privacy/privacy
     terms_and_conditions:
-      - heading: Sendit Terms And Conditions
+      - heading: Kebijakan Privasi
         description: >-
-          <p>By using Sendit, you agree to the terms and conditions listed on this page.</p>
-          <p>Sendit may change the terms on this page. We will take steps to notify you
-          when this occurs, but you are responsible for staying up-to-date with these changes.</p>
-      - heading: Account Information & Payments
+          <p>LPK HOSHI GAKUEN BALI menyadari pentingnya melindungi informasi pribadi pelanggannya dan sangat berhati-hati dalam mengelola informasi pribadi yang dipercayakan kepada kami. Selain itu, perusahaan berkomitmen untuk menangani dan melindungi informasi pribadi secara tepat sesuai dengan kebijakan privasi berikut ini (selanjutnya disebut sebagai "Kebijakan Privasi").</p>
+      - heading: Jenis Informasi Yang Akan Diperoleh dan Metode Perolehan
         description: >-
-          <ul><li>Fees must be paid at or before the date specified in your payment plan.</li>
-          <li>Failure to pay account fees may result in restricted or suspended access
-          to your Sendit account.</li></ul>
+          <p>LPK HOSHI GAKUEN BALI meminta informasi pribadi seperti nama, tanggal lahir, alamat, nomor telepon, riwayat pendidikan dan pekerjaan, serta alamat e-mail saat mendaftarkan siswa pada lembaga kami.</p>
+      - heading: Tujuan Penggunaan Informasi Pribadi
+        description: >-
+          <p>LPK HOSHI GAKUEN BALI menggunakan informasi pribadi untuk tujuan berikut:</p>
+          <ul><li>Pembuatan resume untuk digunakan dalam wawancara dengan perusahaan Jepang.</li>
+          <li>Meningkatkan jumlah kemitraan dengan perusahaan Jepang yang cocok untuk siswa kami.</li>
+          <li>Untuk segera menghubungi keluarga dan kerabat siswa jika terjadi masalah dengan siswa.</li></ul>
+      - heading: Jenis Informasi Yang Akan Diperoleh dan Metode Perolehan
+        description: >-
+          <p>LPK HOSHI GAKUEN BALI akan menjaga keakuratan informasi pribadi dan mengelolanya secara ketat. Untuk mencegah pemalsuan atau kebocoran informasi pribadi, kami mengambil langkah-langkah keamanan terhadap akses yang tidak sah, virus komputer, dll. serta memastikan bahwa karyawan kami menerima pelatihan yang diperlukan</p>
+      - heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        description: >-
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. menerima pelatihan yang diperlukan</p>
 ---
